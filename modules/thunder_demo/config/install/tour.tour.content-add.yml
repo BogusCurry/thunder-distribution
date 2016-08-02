@@ -7,7 +7,7 @@ module: thunder_demo
 routes:
   - route_name: node.add
     route_params:
-      node_type: article
+      node_type: 'article'
 tips:
   article-channel:
     id: article-channel
